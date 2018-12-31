@@ -11,6 +11,11 @@ public class DiscoveryServerNewApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DiscoveryServerNewApplication.class, args);
 	}
+	
+	/*
+	 * Start Discovery server, then instance 1, instance 2
+	 * http://localhost:8050/
+	 */
 
 }
 
